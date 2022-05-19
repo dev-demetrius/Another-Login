@@ -1,3 +1,3 @@
 # Another-Login
 
-Simple Signup and Login from in PHP
+Simple Signup and Login form in PHP
